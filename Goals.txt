@@ -1,0 +1,2 @@
+Starting screen: 
+	starts off with list of people
